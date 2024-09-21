@@ -19,7 +19,7 @@ Some of the strategies that can be used to tailor an article to different audien
 3, Article length size: Write in such a way that the readers can easily scan through and grab messages from the write up without spending too much time reading on it as this
 can lead to discouragement from reading to the end.
 
-4, Choose the right channel to publish your work, channels that depend on the type of audience you are writing for.
+4, Choose the right channel to publish your work, channels specific to the type of your audience.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
