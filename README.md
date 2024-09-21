@@ -42,7 +42,20 @@ a more interactive way by engaging the writing into a more demostrable way by sh
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 The effectiveness of a particular type of visual to be used mostly will depend of the content of the piece of write up. The author will choose visuals that is 
 most relatable and appropriate based on the content of the write up.
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+
+It helps by structuring the content, enhancing scanability and guilding the readers
+.
 ## 10. What are some best practices for creating effective headings and subheadings?
+
+Headings and subheadings should be clear and concise, discriptive and should reflect the content structure.
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+
+The product name, its uses and features, the target audience and an example of a problem the product solves.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+By stating clearly the uses of the product, and also listing out the core functionalities and the type of problems the product solves.
+
