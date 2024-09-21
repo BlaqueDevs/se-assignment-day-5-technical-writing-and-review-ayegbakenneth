@@ -5,16 +5,20 @@
 
 Having a knowledge about your audience and how much awareness they have about what you are writing about will help you in how to go about writing your article.
 It will guide you on the depth and the kind of domain language you should use. Knowing more about your audience gives you a clue on how to write and present your
-article information in order for the audience to easily read and understand what the article is talking about without doing more research in finding and understanding,
-the article words used for clearification in order to unvail the article message.
+article information in order for the audience to easily read and understand what the article is talking about without doing more research to understand
+the article words used for  better clearification.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
 Some of the strategies that can be used to tailor an article to different audience types include:
+
 1, Plain language: This involve writing in a way that readers can easily understand and unvail the writing information.
+
 2, Use of Visuals: The use of visuals such as pictures and diagrams that are related to the writing, helps the readers to understand more easily the content of the writing.
+
 3, Article length size: Write in such a way that the readers can easily scan through and grab messages from the write up without spending too much time reading on it as this
 can lead to discouragement from reading to the end.
+
 4, Choose the right channel to publish your work, channels that depend on the type of audience you are writing for.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
@@ -39,13 +43,15 @@ Example such as "start instead of "initiate", start is a more common term and mo
 
 Examples helps to break down complex context and helps readers to be able to go deep down into a particular subject matter while visuals such as images and other forms helps to make the write up
 a more interactive way by engaging the writing into a more demostrable way by showing it rather than just writing lines of sentences.
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
 The effectiveness of a particular type of visual to be used mostly will depend of the content of the piece of write up. The author will choose visuals that is 
 most relatable and appropriate based on the content of the write up.
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
-It helps by structuring the content, enhancing scanability and guilding the readers
+It helps by structuring the content, enhancing scanability and guilding the readers.
 .
 ## 10. What are some best practices for creating effective headings and subheadings?
 
